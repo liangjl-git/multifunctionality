@@ -1,2 +1,2 @@
 # multifunctionality
-some scripts for multifunctionality
+Some scripts for multifunctionality
